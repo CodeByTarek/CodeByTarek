@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Bismillah_Calligraphy20.svg" alt="Bismillah Calligraphy">  <img height="180px" src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" align="right" alt="My Current Weather Condition">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Bismillah_Calligraphy1.svg">
 
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="20px" alt="Hey">
@@ -83,7 +83,7 @@ I'm [Mehedi Hasan Tarek](https://github.com/PRAYFRME)
 
 
 <p align="left">
- <img align="" height='90px' src="https://github.com/PRAYFRME/PRAYFRME/blob/main/GIF/b_1_partly_cloudy.svg" />
+ <img align="" height='90px' src="https://basmilius.github.io/weather-icons/production/fill/all/lightning-bolt.svg" />
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
- <img align="" height='90px' src="https://github.com/PRAYFRME/PRAYFRME/blob/main/GIF/b_1_partly_cloudy.svg" />
+ <img align="" height='90px' src="https://basmilius.github.io/weather-icons/production/fill/all/lightning-bolt.svg" />
 </p>
