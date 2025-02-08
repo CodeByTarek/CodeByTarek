@@ -4,7 +4,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="20px" alt="Hey">
 
 
-I'm [Mehedi Hasan Tarek](https://github.com/PRAYFRME)
+I'm [Mehedi Hasan Tarek](https://github.com/CodeByTarek)
 
 - Cybersecurity and Data Science Enthusiast. 
 - Working on Software Development.
@@ -20,7 +20,7 @@ I'm [Mehedi Hasan Tarek](https://github.com/PRAYFRME)
 - Open Source :octocat:
 
 ### Profile Views 🧮
-![PRAYFRME visitor counter](https://count.getloli.com/get/@PRAYFRME?theme=rule34)
+![PRAYFRME visitor counter](https://count.getloli.com/get/@CodeByTarek?theme=rule34)
 
 
 ### Technologies & Tools ⚙
@@ -53,31 +53,31 @@ I'm [Mehedi Hasan Tarek](https://github.com/PRAYFRME)
 
 ### My GitHub Stats 📊 
 
-<img width="330px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true&locale=en&layout=compact" />
+<img width="330px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByTarek&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true&locale=en&layout=compact" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=PRAYFRME&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true&locale=en" />
+<img src="https://github-readme-stats.vercel.app/api?username=CodeByTarek&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true&locale=en" />
 
 
-<img align="right" alt="GIF" src="https://github.com/PRAYFRME/PRAYFRME/blob/main/GIF/working.gif?raw=true" width="305" height="300" />
+<img align="right" alt="GIF" src="https://github.com/CodeByTarek/CodeByTarek/blob/main/GIF/working.gif?raw=true" width="305" height="300" />
 
 
 ###  My Contribution Streak 🔥
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PRAYFRME&theme=blood&fire=FFBA47)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeByTarek&theme=blood&fire=FFBA47)](https://git.io/streak-stats)
  
 
-<h2>Get in Touch<img align="center" src="https://github.com/PRAYFRME/PRAYFRME/blob/main/GIF/Handshake.gif" height="33px" /></h2>
+<h2>Get in Touch<img align="center" src="https://github.com/CodeByTarek/CodeByTarek/blob/main/GIF/Handshake.gif" height="33px" /></h2>
 
-[<img align="left" alt="codeSTACKr.com" width="31px" src="https://raw.githubusercontent.com/PRAYFRME/PRAYFRME/84af7fefdb739eb33fc46aee5c73cd34e4e2ea61/GIF/internet-explorer-logo-svgrepo-com.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="31px" src="https://raw.githubusercontent.com/CodeByTarek/CodeByTarek/84af7fefdb739eb33fc46aee5c73cd34e4e2ea61/GIF/internet-explorer-logo-svgrepo-com.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="31px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 <a href="https://www.buymeacoffee.com/prayfrme" target="_blank"><img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="110" ></a>
-<img align="left" width="185px" src="https://komarev.com/ghpvc/?username=PRAYFRME&color=FF0000&style=flat&label=NEW+VIEWS" alt="PRAYFRME"/>
+<img align="left" width="185px" src="https://komarev.com/ghpvc/?username=CodeByTarek&color=FF0000&style=flat&label=NEW+VIEWS" alt="CodeByTarek"/>
 
 <a href="https://trackgit.com">
 <img width="155px" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kvwurpx2jpmnyixws9kv" alt="trackgit-views" />
 </a>
 
-[website]: https://github.com/PRAYFRME
-[linkedin]: https://www.linkedin.com/in/prayfrme/
+[website]: https://github.com/CodeByTarek
+[linkedin]: https://www.linkedin.com/in/mehedihasantarek
 
 ![](https://hit.yhype.me/github/profile?user_id=67306802)
 
