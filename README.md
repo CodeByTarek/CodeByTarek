@@ -19,8 +19,7 @@ I'm [Mehedi Hasan Tarek](https://github.com/CodeByTarek)
 - Data Science, Machine Learning, Cyber Security, and AI :robot:
 - Open Source :octocat:
 
-### Profile Views 🧮
-![PRAYFRME visitor counter](https://count.getloli.com/get/@CodeByTarek?theme=rule34)
+
 
 
 ### Technologies & Tools ⚙
@@ -70,8 +69,3 @@ I'm [Mehedi Hasan Tarek](https://github.com/CodeByTarek)
 ![](https://hit.yhype.me/github/profile?user_id=67306802)
 
 
-<p align="left">
- <img align="" height='90px' src="https://basmilius.github.io/weather-icons/production/fill/all/lightning-bolt.svg" />
-<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
- <img align="" height='90px' src="https://basmilius.github.io/weather-icons/production/fill/all/lightning-bolt.svg" />
-</p>
