@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Bismillah_Calligraphy1.svg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Bismillah_Calligraphy1.svg" width="900px">
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="20px" alt="Hey">
 
