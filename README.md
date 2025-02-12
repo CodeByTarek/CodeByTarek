@@ -1,8 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Bismillah_Calligraphy1.svg">
 
-
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="20px" alt="Hey">
-
 
 I'm [Mehedi Hasan Tarek](https://github.com/CodeByTarek)
 
@@ -12,15 +10,10 @@ I'm [Mehedi Hasan Tarek](https://github.com/CodeByTarek)
 - Love to work with new technologies, playing with Data and AI.
 - Hobbies are meeting new people from different countries, listening to music from different languages, watching anime, reading books.
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif?raw=true" width="480" height="325" alt="GIF"/>
-
 ### Things I am passionate about 🕵🏻‍♂️
 
 - Data Science, Machine Learning, Cyber Security, and AI :robot:
 - Open Source :octocat:
-
-
-
 
 ### Technologies & Tools ⚙
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Dart_programming_language_logo_icon.svg"></code>
@@ -49,23 +42,13 @@ I'm [Mehedi Hasan Tarek](https://github.com/CodeByTarek)
 <code><img height="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
 
-
-
-
-
-
-
 <h2>Get in Touch<img align="center" src="https://github.com/CodeByTarek/CodeByTarek/blob/main/GIF/Handshake.gif" height="33px" /></h2>
 
 [<img align="left" alt="codeSTACKr.com" width="31px" src="https://raw.githubusercontent.com/CodeByTarek/CodeByTarek/84af7fefdb739eb33fc46aee5c73cd34e4e2ea61/GIF/internet-explorer-logo-svgrepo-com.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="31px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 <a href="https://www.buymeacoffee.com/prayfrme" target="_blank"><img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="110" ></a>
 
-
-
 [website]: https://github.com/CodeByTarek
 [linkedin]: https://www.linkedin.com/in/mehedihasantarek
 
 ![](https://hit.yhype.me/github/profile?user_id=67306802)
-
-
