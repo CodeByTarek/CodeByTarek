@@ -51,30 +51,18 @@ I'm [Mehedi Hasan Tarek](https://github.com/CodeByTarek)
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
 
 
-### My GitHub Stats 📊 
-
-<img width="330px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByTarek&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true&locale=en&layout=compact" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=CodeByTarek&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true&locale=en" />
 
 
-<img align="right" alt="GIF" src="https://github.com/CodeByTarek/CodeByTarek/blob/main/GIF/working.gif?raw=true" width="305" height="300" />
 
 
-###  My Contribution Streak 🔥
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeByTarek&theme=blood&fire=FFBA47)](https://git.io/streak-stats)
- 
 
 <h2>Get in Touch<img align="center" src="https://github.com/CodeByTarek/CodeByTarek/blob/main/GIF/Handshake.gif" height="33px" /></h2>
 
 [<img align="left" alt="codeSTACKr.com" width="31px" src="https://raw.githubusercontent.com/CodeByTarek/CodeByTarek/84af7fefdb739eb33fc46aee5c73cd34e4e2ea61/GIF/internet-explorer-logo-svgrepo-com.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="31px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 <a href="https://www.buymeacoffee.com/prayfrme" target="_blank"><img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="110" ></a>
-<img align="left" width="155px" src="https://komarev.com/ghpvc/?username=CodeByTarek&color=FF0000&style=flat&label=NEW+VIEWS" alt="CodeByTarek"/>
 
-<a href="https://trackgit.com">
-<img width="155px" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kvwurpx2jpmnyixws9kv" alt="trackgit-views" />
-</a>
+
 
 [website]: https://github.com/CodeByTarek
 [linkedin]: https://www.linkedin.com/in/mehedihasantarek
