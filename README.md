@@ -5,10 +5,9 @@
 I'm [Mehedi Hasan Tarek](https://github.com/CodeByTarek)
 
 - Cybersecurity and Data Science Enthusiast. 
-- Working on Software Development.
 - Studied Computer Science and Engineering. 
-- Love to work with new technologies, playing with Data and AI.
-- Hobbies are meeting new people from different countries, listening to music from different languages, watching anime, reading books.
+- Love to work with new technologies and play with data and AI.
+- Hobbies are meeting new people from different countries, listening to music from different languages, watching anime, and reading books.
 
 ### Things I am passionate about 🕵🏻‍♂️
 
