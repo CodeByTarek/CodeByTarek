@@ -47,7 +47,7 @@ I'm [Mehedi Hasan Tarek](https://github.com/CodeByTarek)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="31px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 <a href="https://www.buymeacoffee.com/prayfrme" target="_blank"><img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="110" ></a>
 
-[website]: [https://github.com/CodeByTarek](https://linktr.ee/mhtarek)
+[website]: https://linktr.ee/mhtarek
 [linkedin]: https://www.linkedin.com/in/mehedihasantarek
 
 ![](https://hit.yhype.me/github/profile?user_id=67306802)
